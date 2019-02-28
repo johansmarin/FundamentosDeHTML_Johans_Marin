@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_3" spreadMethod="pad">
+   <stop offset="0" stop-color="#e5c3c3"/>
+   <stop offset="1" stop-color="#1a3c3c"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_4">
+   <text fill="#7f0000" font-family="Fantasy" font-size="24" id="svg_1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(18.2232 0 0 15.1415 -3444.35 -1785.32)" x="206.659358" xml:space="preserve" y="142.46817">JMZ</text>
+   <rect fill="#7f0000" height="72.917859" id="svg_2" stroke="url(#svg_3)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="626.965928" x="8.097162" y="400.582127"/>
+  </g>
+ </g>
+</svg>
