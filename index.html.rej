@@ -1,9 +1,0 @@
-diff a/index.html b/index.html	(rejected hunks)
-@@ -29,6 +29,7 @@
-       <li>Español 100%</li>
-       <li>Ingles  60%</li>
-       <li>Francés 30%</li>
-+      <li>Francés 30%</li>
-     </ul>
-     <footer>
-     <a href="mailto:johansmarin@gmail.com?subject=Consulta" title="Enviar email">johansmarin@gmail.com</a>  Teléfono +506 89926714 Costa Rica, San José, Desamparados, San Miguel

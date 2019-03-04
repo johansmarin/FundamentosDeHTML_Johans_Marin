@@ -8,7 +8,7 @@ footer
 }
 img
 {
-    border-radius: 10px;
+    border-radius: 4px;
 }
 #contenedor
 {
@@ -27,5 +27,5 @@ img
 }
 .lista
 {
-    list-style-type: upper-alpha;
+    list-style-type: upper-roman;
 }
